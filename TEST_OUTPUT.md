@@ -7,7 +7,7 @@
 ### Terminal Output
 
 # test cases output
-(screenshots/testcase.png)
+(.screenshots/testcase.png)
 
 (screenshots/testcases.png)
 
