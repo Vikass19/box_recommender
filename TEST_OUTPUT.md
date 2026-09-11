@@ -23,7 +23,7 @@ Status: 200 OK
 
 ![Box API Test](screenshots/box.png)
 
-![box recommend API Test](screenshots/recommend_box.png)
+![box recommend API Test](screenshots/recommend.png)
 
 
 
