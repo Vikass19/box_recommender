@@ -7,9 +7,9 @@
 ### Terminal Output
 
 # test cases output
-(.screenshots/testcase.png)
+![test case](screenshots/testcase.png)
 
-(screenshots/testcases.png)
+![Tests case ](screenshots/testcase.png)
 
 getting all aviable products
 GET /api/products/
