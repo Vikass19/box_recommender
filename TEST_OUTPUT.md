@@ -11,18 +11,19 @@
 
 (screenshots/testcases.png)
 
-```getting all aviable products
+getting all aviable products
 GET /api/products/
 Status: 200 OK
 
-(screenshots/box.png)
+![products API Test](screenshots/products.png)
 
-
-```gettingn all boxes
+gettingn all boxes
 GET /api/box/
 Status: 200 OK
 
-(screenshots/box.png)
+![Box API Test](screenshots/box.png)
+
+![box recommend API Test](screenshots/recommend_box.png)
 
 
 
